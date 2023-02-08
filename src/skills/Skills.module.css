@@ -1,0 +1,22 @@
+.skills {
+    height: 100vh;
+    background-color: silver;
+}
+
+.container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.title {
+    background-color: rgb(233, 231, 231);
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    width: 100%;
+    flex-wrap: wrap;
+}
